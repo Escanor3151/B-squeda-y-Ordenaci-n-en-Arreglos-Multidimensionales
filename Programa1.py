@@ -1,3 +1,4 @@
+#Programa 1 Charlie Cuaces
 #Se define la Matriz 3x3
 a = [[5, 8, 9], [2, 1, 7], [3, 4, 6]]
 #SE define funcion para buscar un valor en la matriz

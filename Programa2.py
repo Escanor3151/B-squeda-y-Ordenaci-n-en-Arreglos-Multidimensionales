@@ -1,3 +1,4 @@
+#Programa 2 Charlie Cuaces
 # Se define la matriz 3x3
 a = [[5, 8, 9], [2, 1, 7], [6, 4, 3]]
 # Se crea funcion para imprimir la matriz
